@@ -1,0 +1,51 @@
+{
+    "duration": 123,
+    "director": "asda",
+    "price": 23,
+    "yearOfAppearance": 1999,
+    "genre": "adfwef",
+    "ageRestriction": 12,
+    "title": "movie",
+    "type": "Movie"
+}
+{
+    "duration": 120,
+    "director": "Bob",
+    "price": 23,
+    "yearOfAppearance": 2002,
+    "genre": "Horro",
+    "ageRestriction": 15,
+    "title": "SAW",
+    "type": "Movie"
+}
+{
+    "duration": 20,
+    "director": "Jim",
+    "price": 100,
+    "rentness": false,
+    "yearOfAppearance": 2010,
+    "genre": "SitCom",
+    "ageRestriction": 12,
+    "title": "The Office",
+    "type": "Series"
+}
+{
+    "duration": 120,
+    "director": "Bob",
+    "price": 20,
+    "yearOfAppearance": 2002,
+    "genre": "horror",
+    "ageRestriction": 15,
+    "title": "SAW",
+    "type": "Movie"
+}
+{
+    "duration": 125,
+    "director": "Adam Lambert",
+    "price": 123,
+    "yearOfAppearance": 1994,
+    "genre": "Dystopian",
+    "ageRestriction": 13,
+    "title": "The King of the Flies",
+    "type": "Movie"
+}
